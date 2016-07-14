@@ -1,7 +1,7 @@
 name: Brand0n3
 favicon: null
-layout_spectrum: 0.868209317792207
-typography_spectrum: 0.7843025559559464
+layout_spectrum: 0
+typography_spectrum: 0.13712
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.19954356527887285
-  lightness: 0.9072816756088287
-  saturation: 0.17515904502943158
-  rhythmicContrast: 0.30579991987906396
+  brandStrength: 0
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
