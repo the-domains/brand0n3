@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Brand0n3]]></title>
         <description><![CDATA[Brand0n3]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brand0n3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 20:45:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jul 2016 20:46:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brand0n3/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[dusty sidecountry]]></title>
+            <description><![CDATA[<article><h1>dusty sidecountry</h1><p>Rajasthan, 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eae12d64-bcd5-49a6-a847-8131dc1a9af4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/brand0n3/dusty-sidecountry/index.html</link>
+            <guid isPermaLink="false">7086535c-a9b8-4c5b-b7fa-398bfa45c1c9</guid>
+            <pubDate>Thu, 14 Jul 2016 20:45:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fuji]]></title>
             <description><![CDATA[<article><h1>Fuji</h1><p>Shizuoka, 2014</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f6e874c-e837-469a-8966-2c40bd4d4ab2.jpg"></article>]]></description>
-            <link>undefinedfuji/index.html</link>
+            <link>https://thegrid.ai/brand0n3/fuji/index.html</link>
             <guid isPermaLink="false">d92c0405-9bfa-42c0-b546-76edd6014f58</guid>
             <pubDate>Thu, 14 Jul 2016 20:45:47 GMT</pubDate>
         </item>
