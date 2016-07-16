@@ -7,13 +7,6 @@
         <lastBuildDate>Sat, 16 Jul 2016 16:48:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brand0n3/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Tré-la-Tête]]></title>
-            <description><![CDATA[<article><h1>Tré-la-Tête</h1><p>Contamines-Montjoie, 2015</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c349a40-7d9c-4eae-8062-d3a112380e57.jpg"></article>]]></description>
-            <link>https://thegrid.ai/brand0n3/tre-la-tete/index.html</link>
-            <guid isPermaLink="false">585ad136-9850-42ca-8231-d2fefae4c2e4</guid>
-            <pubDate>Sat, 16 Jul 2016 16:48:18 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Turnagain dusk]]></title>
             <description><![CDATA[<article><h1>Turnagain dusk</h1><p>Alaska, 2013</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fc0ee2a61163d773039970e2b7dbbad0/croprotate.jpg?cropheight=2596&cropwidth=3095&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fee0757b3-1374-4835-892b-bcdf7d32fcc6.jpg&x=0&y=0"></article>]]></description>
             <link>https://thegrid.ai/brand0n3/turnagain-dusk/index.html</link>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>colombian refugee</h1><p>Mancamiri, 2015</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ed043b402fac5e7662c45b88b2427905/croprotate.jpg?cropheight=2563&cropwidth=1754&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F67eee556-284f-42c9-b29d-a4d7fee37db8.jpg&x=0&y=0"></article>]]></description>
             <link>https://thegrid.ai/brand0n3/colombian-refugee/index.html</link>
             <guid isPermaLink="false">b6142b68-2d94-4871-bb78-907d144a7efb</guid>
+            <pubDate>Thu, 14 Jul 2016 20:45:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[mirror bridge]]></title>
+            <description><![CDATA[<article><h1>mirror bridge</h1><p>Dal Lake, 2016</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5581bbaa7a6dd49c55fd8b4fa7bf32ce/croprotate.jpg?cropheight=5597&cropwidth=3733&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1a3772d9-3e13-48de-9ecf-1f1c9b2b7195.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/brand0n3/mirror-bridge/index.html</link>
+            <guid isPermaLink="false">86b0d940-1192-4cfc-8262-53da02cf1e0f</guid>
             <pubDate>Thu, 14 Jul 2016 20:45:48 GMT</pubDate>
         </item>
     </channel>
