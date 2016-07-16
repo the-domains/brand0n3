@@ -4,15 +4,8 @@
         <description><![CDATA[Brand0n3]]></description>
         <link>https://thegrid.ai/brand0n3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 16:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 16:49:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brand0n3/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[river of light]]></title>
-            <description><![CDATA[<article><h1>river of light</h1><p>Iceland, 2013</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3a0197617176d2b1974d65f1f616f339/croprotate.jpg?cropheight=1985&cropwidth=3872&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F33c66e65-2054-40b0-92dc-5ed1faf58b64.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/brand0n3/river-of-light/index.html</link>
-            <guid isPermaLink="false">7f279bcb-a466-41ff-b42b-6f4d8eaa7a4d</guid>
-            <pubDate>Sat, 16 Jul 2016 16:48:19 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[shikara ride]]></title>
             <description><![CDATA[<article><h1>shikara ride</h1><p>Dal Lake, 2016</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3a2cd0df1993db0e4e188f1c6ab1cac9/croprotate.jpg?cropheight=4808&cropwidth=3615&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8576945e-b611-4904-a0af-1471db1c7681.jpg&x=0&y=0"></article>]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>toxicity</h1><p>Mumbai, 2016</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e0a4ebec73d24cbfca8e44b9dde97ee9/croprotate.jpg?cropheight=5044&cropwidth=3709&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Ffbd3ed33-212b-4c3e-a71a-8822bf9d0765.jpg&x=0&y=0"></article>]]></description>
             <link>https://thegrid.ai/brand0n3/toxicity/index.html</link>
             <guid isPermaLink="false">f82b8abb-90c4-465e-8372-32a66c9dcc23</guid>
+            <pubDate>Sat, 16 Jul 2016 16:48:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tré-la-Tête]]></title>
+            <description><![CDATA[<article><h1>Tré-la-Tête</h1><p>Contamines-Montjoie, 2015</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c349a40-7d9c-4eae-8062-d3a112380e57.jpg"></article>]]></description>
+            <link>https://thegrid.ai/brand0n3/tre-la-tete/index.html</link>
+            <guid isPermaLink="false">585ad136-9850-42ca-8231-d2fefae4c2e4</guid>
             <pubDate>Sat, 16 Jul 2016 16:48:18 GMT</pubDate>
         </item>
     </channel>
