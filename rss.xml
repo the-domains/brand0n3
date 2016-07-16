@@ -4,8 +4,15 @@
         <description><![CDATA[Brand0n3]]></description>
         <link>https://thegrid.ai/brand0n3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 16:49:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 16:49:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brand0n3/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Látrabjarg]]></title>
+            <description><![CDATA[<article><h1>Látrabjarg</h1><p>Iceland, 2013</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c775c644f45a77b4b25ee0c507d81fef4db4b16.jpg"></article>]]></description>
+            <link>https://thegrid.ai/brand0n3/latrabjarg/index.html</link>
+            <guid isPermaLink="false">47c757f2-71f7-4c0f-b507-2d99a76a4e13</guid>
+            <pubDate>Sat, 16 Jul 2016 16:48:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[links]]></title>
             <description><![CDATA[<article><h1>links</h1><p>Mumbai, 2016</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9f218c099c7a25c2c001155c0ec13061/croprotate.jpg?cropheight=2606&cropwidth=3744&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fd9888cec-6404-4a57-9888-dd3d1c07bd5b.jpg&x=0&y=0"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>the pledge</h1><p>Dal Lake, 2016</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4c92fdab4201e10dbf96f19aa3559dc2/croprotate.jpg?cropheight=3745&cropwidth=5616&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5efd895b-3ffd-46dc-b933-1441e9334adf.jpg&x=0&y=0"></article>]]></description>
             <link>https://thegrid.ai/brand0n3/the-pledge/index.html</link>
             <guid isPermaLink="false">8a48813b-9a95-4266-8f07-60ea9a6a1eb3</guid>
-            <pubDate>Sat, 16 Jul 2016 16:48:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oscar]]></title>
-            <description><![CDATA[<article><h1>Oscar</h1><p>8rand0n3! 5tud10s, 2007</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/394b2fd6-8a26-4cab-a437-5012300e7b96.jpg"></article>]]></description>
-            <link>https://thegrid.ai/brand0n3/oscar/index.html</link>
-            <guid isPermaLink="false">aa287aa7-b31a-4a71-806d-2f9b01e0c88e</guid>
             <pubDate>Sat, 16 Jul 2016 16:48:19 GMT</pubDate>
         </item>
     </channel>
