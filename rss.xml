@@ -4,8 +4,22 @@
         <description><![CDATA[Brand0n3]]></description>
         <link>https://thegrid.ai/brand0n3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 16:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 16:49:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brand0n3/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Zermatt]]></title>
+            <description><![CDATA[<article><h1>Zermatt</h1><p>Switzerland, 2015</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/badd3febb532878c2efb109033800508/croprotate.jpg?cropheight=7360&cropwidth=4909&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb5558efa-747c-4c92-8efb-d31a8b488525.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/brand0n3/zermatt/index.html</link>
+            <guid isPermaLink="false">2e7bdeb3-ad71-4525-a9e1-f02e0806f38a</guid>
+            <pubDate>Sat, 16 Jul 2016 16:48:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mont Blanc]]></title>
+            <description><![CDATA[<article><h1>Mont Blanc</h1><p>Italy, 2015</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ed954c070d3d9b550956a33fba7a4176/croprotate.jpg?cropheight=2759&cropwidth=3405&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2c258e67-881d-48b1-9fbd-5595fa7b9dfe.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/brand0n3/mont-blanc/index.html</link>
+            <guid isPermaLink="false">4381da99-d5ce-4611-b3c9-3e5b4ddb000b</guid>
+            <pubDate>Sat, 16 Jul 2016 16:48:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[the other side]]></title>
             <description><![CDATA[<article><h1>the other side</h1><p>Bâlea, 2007</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31ef88e0-98e9-41c4-b0c9-4aad07ebe356.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/brand0n3/shikara-ride/index.html</link>
             <guid isPermaLink="false">ed1c899a-2147-4f3a-8b02-9120416cb77b</guid>
             <pubDate>Sat, 16 Jul 2016 16:48:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[spot]]></title>
-            <description><![CDATA[<article><h1>spot</h1><p>Bucharest, 2006</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/62024776-1262-46c3-bb07-e0f3d0b40461.jpg"></article>]]></description>
-            <link>https://thegrid.ai/brand0n3/spot/index.html</link>
-            <guid isPermaLink="false">1432d3bd-0103-49ed-9ebd-c7c41d43d1dd</guid>
-            <pubDate>Sat, 16 Jul 2016 16:48:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shiraito falls]]></title>
-            <description><![CDATA[<article><h1>Shiraito falls</h1><p>Fuji, 2014</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3cb2b274b43ef7e2b5f77731a0a27ecc/croprotate.jpg?cropheight=4909&cropwidth=7360&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7a0043bb-6600-42f6-be98-5f8853bbe4ef.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/brand0n3/shiraito-falls/index.html</link>
-            <guid isPermaLink="false">af651d83-4b78-4276-9f79-34172642c58d</guid>
-            <pubDate>Sat, 16 Jul 2016 16:48:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
