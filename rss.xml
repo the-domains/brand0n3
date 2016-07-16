@@ -4,7 +4,7 @@
         <description><![CDATA[Brand0n3]]></description>
         <link>https://thegrid.ai/brand0n3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 16:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 16:49:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brand0n3/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Látrabjarg]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/brand0n3/links/index.html</link>
             <guid isPermaLink="false">b735bc3a-a551-482f-bf25-b14b6dd3ea89</guid>
             <pubDate>Sat, 16 Jul 2016 16:48:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[lake houses]]></title>
+            <description><![CDATA[<article><h1>lake houses</h1><p>Srinagar, 2016</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8692467e03e2b57fce1bd74f5841a015/croprotate.jpg?cropheight=1751&cropwidth=4013&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F11747a5b-7cc6-44c7-96b0-84e8459accfa.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/brand0n3/lake-houses/index.html</link>
+            <guid isPermaLink="false">8b463ba8-4f16-47a7-82c1-e5c1aa07a932</guid>
+            <pubDate>Sat, 16 Jul 2016 16:48:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[lighthouse]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Perito Moreno</h1><p>El Calafate, 2012</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e435a9ce-61e0-4fd8-a469-849d5e1cabd1.jpg"></article>]]></description>
             <link>https://thegrid.ai/brand0n3/perito-moreno/index.html</link>
             <guid isPermaLink="false">e4bc21d3-30d0-4ad9-aead-1cc7fbee850c</guid>
-            <pubDate>Sat, 16 Jul 2016 16:48:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[the pledge]]></title>
-            <description><![CDATA[<article><h1>the pledge</h1><p>Dal Lake, 2016</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4c92fdab4201e10dbf96f19aa3559dc2/croprotate.jpg?cropheight=3745&cropwidth=5616&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5efd895b-3ffd-46dc-b933-1441e9334adf.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/brand0n3/the-pledge/index.html</link>
-            <guid isPermaLink="false">8a48813b-9a95-4266-8f07-60ea9a6a1eb3</guid>
             <pubDate>Sat, 16 Jul 2016 16:48:19 GMT</pubDate>
         </item>
     </channel>
