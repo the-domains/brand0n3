@@ -4,7 +4,7 @@
         <description><![CDATA[Brand0n3]]></description>
         <link>https://thegrid.ai/brand0n3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 16:49:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 16:49:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brand0n3/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[rat temple]]></title>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/brand0n3/links/index.html</link>
             <guid isPermaLink="false">b735bc3a-a551-482f-bf25-b14b6dd3ea89</guid>
             <pubDate>Sat, 16 Jul 2016 16:48:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[sweet spot]]></title>
-            <description><![CDATA[<article><h1>sweet spot</h1><p>Helbronner, 2015</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/15b7c68d7af601bba84b5546f2847312/croprotate.jpg?cropheight=1905&cropwidth=3236&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F82657dd4-92bd-430f-8c24-59a4fbabfd7c.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/brand0n3/sweet-spot/index.html</link>
-            <guid isPermaLink="false">333ec54d-dc14-43ee-a490-3feb690344c1</guid>
-            <pubDate>Sat, 16 Jul 2016 16:48:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[carelessness]]></title>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/brand0n3/lighthouse/index.html</link>
             <guid isPermaLink="false">f81c85f2-8f05-4d43-96de-9d6ab0222c40</guid>
             <pubDate>Sat, 16 Jul 2016 16:48:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zermatt]]></title>
+            <description><![CDATA[<article><h1>Zermatt</h1><p>Switzerland, 2015</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/badd3febb532878c2efb109033800508/croprotate.jpg?cropheight=7360&cropwidth=4909&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb5558efa-747c-4c92-8efb-d31a8b488525.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/brand0n3/zermatt/index.html</link>
+            <guid isPermaLink="false">2e7bdeb3-ad71-4525-a9e1-f02e0806f38a</guid>
+            <pubDate>Sat, 16 Jul 2016 16:48:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
